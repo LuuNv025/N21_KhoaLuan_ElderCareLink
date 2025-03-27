@@ -1,0 +1,6 @@
+- Đây là responsive chúng em tạo để tổng hợp các thành phần chúng em đang thực hiện.
+- Repo này bao gồm 4 repo con: api, website, staff app, customer app.
+- Để chạy chương trình:
+  -  B1: clone repo
+  -  B2: Chạy "npm i"
+  -  B3: Chạy: "npm start"
